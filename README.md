@@ -19,7 +19,7 @@ FREE GUI <br>
 Mobile Game Icon Pack <br>
 menu mobile games <br>
 Localization <br>
-Explosive Toon VFX Texture Free <br>
+Explosive Toon VFX Texture Free (ToonExplosion v1.0, It was free when I used it) <br>
 And free audios. <br>
 <br>
 Sorry if I forgot another ones. <br>
