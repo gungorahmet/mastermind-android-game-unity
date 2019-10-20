@@ -3,7 +3,7 @@
 
 Mastermind game is an android game which I developed with C# in Unity Game Engine. 
 
-I am going to share source code of my unity game project in this repo.
+I am going to share the source code of the game project in this repo.
 
 Game link on android market;
 # https://play.google.com/store/apps/details?id=com.gamegor.TheDefuser&amp;hl=en_US
@@ -11,20 +11,20 @@ Game link on android market;
 
 Used Assets and Libraries.
 
-GoogleMobileAds
-EasyUIAnimator
-GE Common Assets
-2D Sky Free
-FREE GUI
-Mobile Game Icon Pack
-menu mobile games
-Localization
-Explosive Toon VFX Texture Free
-And free audios.
-
-Sorry if I forgot another ones.
-Please remind me and I will add the rest of :)
-
-I tried to use FREE Editions for all assets.
-
-I can delete if it's not FREE edition. Sorry in advance.
+GoogleMobileAds <br>
+EasyUIAnimator <br>
+GE Common Assets <br>
+2D Sky Free <br>
+FREE GUI <br>
+Mobile Game Icon Pack <br>
+menu mobile games <br>
+Localization <br>
+Explosive Toon VFX Texture Free <br>
+And free audios. <br>
+<br>
+Sorry if I forgot another ones. <br>
+Please remind me and I will add the rest of :) <br>
+<br><br>
+I tried to use FREE Editions for all assets. <br>
+<br><br>
+I can delete if it's not FREE edition. Sorry in advance. <br>
