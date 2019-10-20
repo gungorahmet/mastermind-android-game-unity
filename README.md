@@ -1,6 +1,7 @@
 # mastermind-unity-android-game
 # I developed it just for fun :)
 
+( Main code is under mastermind-android-game-unity/Assets/Scripts folder )<br><br>
 Mastermind game is an android game which I developed with C# in Unity Game Engine. 
 
 I am going to share the source code of the game project in this repo.
