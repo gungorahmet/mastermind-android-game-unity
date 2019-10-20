@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b481ff17521bef643ada5f1f6743114e
+timeCreated: 1502497005
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colophon DBZ
+  fontNames:
+  - Colophon DBZ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+title=My Great Game
+play=Play
+opts=Settings
+info=Info
+howToPlayHeader=How To Play
+M_Levels=Play
+L_gameLevels=Game Levels
+firstLine=-  You are a <b><color=#00ff00ff>Logic Dedective</color></b>. There is a color sequence to defuse the bomb and you have to find the correct sequence.
+secondLine=-   Colors are reusable.Correct sequence may contain the same color more than one or may not contain some colors.Simply <b><color=#00ff00ff>Drag and drop colors</color></b> to empty guess line <b><color=#00ff00ff>and press button</color></b> to check if it is correct sequence.
+thirdLine=-  You have a few try to find sequence and defuse the bomb and <color=#00ff00ff><size=17><b>you need <color=#ff0000ff><size=20>logic and luck<b></b></size></color> at the same time</b></size></color>. About first row; you just guess the code sequence without any hints. After you make your first lucky guess <color=#00ff00ff><b><size=17>you will have hints</size></b></color> to help you to defuse.Try until you find the correct sequence.
+twoTypeHints=-  There are 2 types of hints;
+yesText=- It means that you have a <color=#00ff00ff>correct color</color> guess and it is on the <color=#00ff00ff>correct position</color>.
+questionText=- It means that you have a <color=#00ff00ff>correct color</color> guess but it is on the <b><color=#ff0000ff>wrong position</color></b>.
+nextPage=Next Page
+backPage=Back Page
+nextLevel=Next Level
+plusOneText=<b>Click for <color=#00ff00ff>Extra +1 Chance </color></b>to guess!
+tryAgain=Try Again!
+fourthText=-  You just shouldn't be confused about Hint Sequence. <color=#ff0000ff><size=17><b>THE HINTS ARE <size=30>NOT</size> IN ORDER WITH YOUR GUESS SENTENCES </b></size></color>. With this hints <color=#00ff00ff><size=17><b>from every steps</b></size></color>, you should figure out the correct sequence.
+olmayanText=- It means <color=#ff0000ff>THERE IS NO or MORE THAN IT CONTAINS</color> color that you have into your guess , <color=#00ff00ff>in the code sequence</color>.
+letsMake=<color=#00ff00ff>-  Let's show on an example;</color>
+justThink=1.) Just think that your guess is like below and you hit the guess button;
+resultText=2.) And just think that the code sequence that you should find is like below;
+howIsYourHint=3.) So let's check how your hint will be like;
+exp1Text=- As you can see <color=#00ff00ff>2nd and 4th of your guesses are the same with code sequence</color>, so these 2 guesses are correct. So it is correct mark.
+exp2Text=- Also the code sequence <color=#00ff00ff>contains your 3rd guess but on the 1st position</color> of it.Code sequence contains it <color=#ff0000ff><b>but on the wrong position</b></color>. So it is question mark.
+exp3TextCANCEL=- The code sequence doesn't contain your 1st guess color.<color=#ff0000ff>So it will show X mark.</color>
+hintText=4.) As result; The hint section <color=#00ff00ff>will be shown like on the right side</color>;
+harderGame=-  The game will get harder level by level.
+howToPlusOne=- You can get extra one more chance to try with a click to +1 Button during the game.
+haveFun=Good luck and have fun :)
+internetCheck=<b>Please check your <color=#00ff00ff>internet connection </color></b>
+levelInfo=Level
+youAre=You are just..
+justAmazing=Just Amazing...

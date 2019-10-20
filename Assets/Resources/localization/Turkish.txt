@@ -1,0 +1,35 @@
+title=Il mio grande gioco
+play=Gioca
+opts=Impostazioni
+info=Informazioni
+howToPlayHeader=Nasil Oynanir
+M_Levels=Oyna
+L_gameLevels=Oyun Bolumleri
+firstLine=-  Sen bir <b><color=#00ff00ff>Mantik Dedektifisin</color></b> ve bombayi imha edebilmen icin dogru renk dizilimini bulman gerekli !
+secondLine=-  Renkler tekrarlanabilirler. Dogru dizilim kodu, ayni renkten birden fazla icerebilir ya da hic icermeyebilir. Renkleri bos hucrelere <b><color=#00ff00ff>surukleyip birakin</color></b> ve ardindan tahmininizi <b><color=#00ff00ff>kontrol etmek icin butona basin</color></b>.
+thirdLine=-  Imha etmek icin birkac deneme hakkiniz var ve <color=#00ff00ff>bu denemeler <color=#ff0000ff><size=19><b> hem mantik hem de sans</b></size></color> gerektiriyor</color>.<color=#00ff00ff><b>Tahmininizi surukleyip birakip butona bastiktan sonra</b></color> size yardimci olacak olan <color=#00ff00ff><b><size=17>ipuclariniz olacak</size></b></color>. Dogru dizilimi bulana kadar denemeye devam edin.
+twoTypeHints=-  3 cesit ipucu bulunuyor;
+yesText=- Tahmininizdeki siralamada <color=#00ff00ff>Dogru bir rengi</color>, <color=#00ff00ff>dogru pozisyonda</color> bildiniz.
+questionText=- Tahmininizdeki siralamada olan <color=#00ff00ff>Dogru bir rengi</color> bildiniz ancak <b><color=#ff0000ff>pozisyonu yanlis</color></b>.
+nextPage=Sonraki Sayfa
+backPage=Onceki Sayfa
+nextLevel=Sonraki Bolum
+plusOneText=<b><color=#00ff00ff>+1 Ekstra Deneme Hakki</color></b> icin tikla!
+tryAgain=Tekrar Dene!
+fourthText=-  Ipucu siralamasi kafanizi karistirmasin. <color=#ff0000ff><size=17><b>IPUCLARI SIRALAMASI SIZIN TAHMIN SIRALAMANIZDAN BAGIMSIZDIR</b></size></color>.<color=#00ff00ff><size=17><b>Her denemenizdeki ipuclari ile</b></size></color> dogru dizilimi bulmalisiniz.
+olmayanText=- <color=#00ff00ff>Aranilan siralamada</color>,tahmininizdeki renklerden birisi <color=#ff0000ff>YER ALMIYOR veya FAZLADAN VAR</color>.
+letsMake=<color=#00ff00ff>-  Bir ornek ile gorecek olursak;</color>
+justThink=1.) Asagidaki gibi bir tahmin girip <color=#00ff00ff>tahmin et butonuna</color> bastiginizi varsayalim;
+resultText=2.) Bulmamiz gereken kod siralamasi da asagidaki gibi olsun;
+howIsYourHint=3.) Bu durumda ;
+exp1Text=- Gordugunuz gibi <color=#00ff00ff>2. ve 4. renk tahminleriniz kod siralamasi ile ayni</color>, oyleyse bu 2 renk dogru pozisyondalar. Oyleyse DOGRU isareti olacak.
+exp2Text=- Ayrica kod siralamasi <color=#00ff00ff>sizin 3. renk tahmininizi iceriyor ancak 1.sirada olmaliydi</color>.<color=#ff0000ff><b>Yani bulmaniz gereken siralamada var ancak pozisyonu yanlis</b></color>.Bu yuzden soru isareti olacak.
+exp3TextCANCEL=- Kod siralamasi sizin 1.renk tahmininizi icermiyor. <color=#ff0000ff>Bu yuzden X isareti olacak.</color>
+hintText=4.) Sonuc olarak <color=#00ff00ff>sagdaki gibi bir ipucu kutucugu</color> goreceksiniz;
+harderGame=-  Bolumleri gectikce oyun daha da zorlasacak.
+howToPlusOne=-  Oyun esnasinda +1 Buton'una basarak ekstra +1 deneme sansi elde edebilirsiniz.
+haveFun=Iyi Eglenceler!
+internetCheck=<b><color=#00ff00ff>Internet baglantinizi </color>kontrol ediniz.</b>
+levelInfo=Seviye
+youAre=Sen var ya sen..
+justAmazing=Sen Muhtesemsin !!
