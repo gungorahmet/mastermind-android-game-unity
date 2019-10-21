@@ -7,7 +7,7 @@ Mastermind game is an android game which I developed with C# in Unity Game Engin
 I am going to share the source code of the game project in this repo.
 
 Game link on android market;
-# https://play.google.com/store/apps/details?id=com.gamegor.TheDefuser&amp;hl=en_US
+# https://play.google.com/store/apps/details?id=com.gamegor.TheDefuser
 
 
 Used Assets and Libraries.
